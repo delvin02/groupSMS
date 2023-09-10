@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GroupSMSV1</string>
+    <string name="btnSend">SEND</string>
+    <string name="tvEditMessageModal">Enter your message here.</string>
+</resources>
